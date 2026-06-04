@@ -19,8 +19,8 @@ API_ID = "31761013" # API ID
 API_HASH = "3d55d62014467b2a922c6c0d6d95deae" # API HASH
 WORKERS = 5
 
-DB_URI = "" # MongoDB URI
-DB_NAME = "BotifyX-Filestore"
+DB_URI = "mongodb+srv://HypoflixNet:<Samridhilovenishant>@cluster0.kdw5usr.mongodb.net/?appName=Cluster0" # MongoDB URI
+DB_NAME = "HypoFlixNet"
 
 FSUBS = [[-1003483476894, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
