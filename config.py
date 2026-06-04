@@ -52,7 +52,7 @@ MESSAGES = {
     "SHORT": "https://ibb.co/LzVSRZc6",
     "SHORT_VERIFY": "https://ibb.co/0yLCY4Fd",
     "PREMIUM_PLANS_PIC": "https://ibb.co/R47nC0JZ",
-    "QR_PAYMENT_PIC": ""
+    "QR_PAYMENT_PIC": "https://ibb.co/rKXrj6yB"
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
