@@ -13,7 +13,7 @@ SHORT_API = "4a98bc00521b68207331e70bd5ebe380e8a855e8" # shortner API
 SHORT_TUT = "https://t.me/Tutorialfyy" # shortner tutorial link
 
 # Bot Configuration
-SESSION = "BotifyX-Botz"
+SESSION = "HYPOFLIX NET"
 TOKEN = "8935186029:AAFkOH3RQXwcuNGQUD4gpOE8RN4cXpzKcJA" # Bot token
 API_ID = "31761013" # API ID
 API_HASH = "3d55d62014467b2a922c6c0d6d95deae" # API HASH
