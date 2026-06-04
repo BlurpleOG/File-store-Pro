@@ -15,8 +15,8 @@ SHORT_TUT = "https://t.me/ANIME_X_FLEX/19" # shortner tutorial link
 # Bot Configuration
 SESSION = "BotifyX-Botz"
 TOKEN = "82074727111:xxxxxxxxxxxxxxxxxx" # Bot token
-API_ID = "xxxxxx" # API ID
-API_HASH = "xxxxxxxxxxxxxxxxxx" # API HASH
+API_ID = "31761013" # API ID
+API_HASH = "3d55d62014467b2a922c6c0d6d95deae" # API HASH
 WORKERS = 5
 
 DB_URI = "" # MongoDB URI
@@ -33,7 +33,7 @@ DB_CHANNEL =  -1001753514086  # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [7156099919]
+ADMINS = [7537243058]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True # For content protection stops message forwarding and copying from the bot and same goes for the screenshot
