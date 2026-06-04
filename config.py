@@ -36,7 +36,7 @@ AUTO_DEL = 300
 ADMINS = [7537243058]
 # Bot Settings
 DISABLE_BTN = True
-PROTECT = True # For content protection stops message forwarding and copying from the bot and same goes for the screenshot
+PROTECT = False # For content protection stops message forwarding and copying from the bot and same goes for the screenshot
 
 # Messages Configuration
 MESSAGES = {
