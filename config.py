@@ -46,13 +46,13 @@ MESSAGES = {
     "CHANNELS":"<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Anime_Scope'>ᴏᴛᴀᴋᴜ_ɴᴀᴛɪᴏɴx</a>\n<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Moviess_SpOT'>ᴀɴɪ_ᴍᴏᴠɪᴇ's ᴍᴀɴɪᴀ</a>\n›› ᴀɴɪᴍᴇ ᴇᴅɪᴛᴢ: <a href='https://t.me/Blurpleog'>ᴀɴɪᴍᴇ'ᴢ ᴇᴅɪᴛ'ᴢ</a>\n›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/LustyDormNeT'>𝖫𝗎𝗌𝗍𝗒 𝖣𝗈𝗋𝗆 𝖭𝖾𝗍</a>\n›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/PornhwaRange'>ᴘᴏʀɴʜᴡᴀ ғʟɪx</a>\n›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/HypoFlix_Network'>ᴏᴛᴀᴋᴜғʟɪx</a>\n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @BlurpleOg</b></blockquote>",
     "REPLY": "<b>ғᴜᴄᴋ ᴏғғ ʙɪᴛᴄʜ !!!</b>",
     "SHORT_MSG": "<blockquote><b>✧ TOKEN EXPIRED</b></blockquote>\n<blockquote>›› ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴛᴏ ʀᴇɢᴀɪɴ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ ғɪʟᴇs\n›› ᴠᴀʟɪᴅ ᴄʀᴇᴅɪᴛs: 5 ᴄʀᴇᴅɪᴛs</blockquote>\n────────────────────────\n<blockquote>›› ᴡʜᴀᴛ ɪs ᴀ ᴛᴏᴋᴇɴ?</blockquote>\n<blockquote>≡  ᴇᴀᴄʜ ᴀᴅ ʙʏᴘᴀss ʀᴇᴡᴀʀᴅ ʏᴏᴜ ᴡɪᴛʜ 5 ᴄʀᴇᴅɪᴛs.ᴏɴᴇ ᴄʀᴇᴅɪᴛ ɪs ᴄᴏɴsᴜᴍᴇᴅ ᴘᴇʀ ғɪʟᴇ/ʟɪɴᴋ ᴀᴄᴄᴇss.</blockquote>",
-    "START_PHOTO": "https://ibb.co/ch6kvnMf",
-    "FSUB_PHOTO": "https://ibb.co/C5q41g1C",
-    "SHORT_PIC": "https://ibb.co/XxMhdhDs",
-    "SHORT": "https://ibb.co/mC9H5kmF",
-    "SHORT_VERIFY": "https://ibb.co/rGg6R2q6",
-    "PREMIUM_PLANS_PIC": "https://ibb.co/8Dzq5n9G",
-    "QR_PAYMENT_PIC": "https://ibb.co/kVPDT5cP"
+    "START_PHOTO": "https://ibb.co/R47nC0JZ",
+    "FSUB_PHOTO": "https://ibb.co/3mCfKSdt",
+    "SHORT_PIC": "https://ibb.co/yFXMPyyj",
+    "SHORT": "https://ibb.co/LzVSRZc6",
+    "SHORT_VERIFY": "https://ibb.co/0yLCY4Fd",
+    "PREMIUM_PLANS_PIC": "https://ibb.co/R47nC0JZ",
+    "QR_PAYMENT_PIC": ""
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
